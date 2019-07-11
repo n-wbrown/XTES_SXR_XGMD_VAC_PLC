@@ -1,1 +1,1 @@
-Twincat VisualStudio PLC project for GMD section of SXR vacuum system.
+Twincat VisualStudio PLC project for XMD section of SXR vacuum system.
